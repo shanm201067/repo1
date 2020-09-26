@@ -1,6 +1,16 @@
 # repo1
-repo1
+
+
+![NSO Logo](nso.png)
+  
+Dockerized Python NCS Client
+=============================
+
+Build CLI
+---------
+
+* Execute script bellow
 
 ```
-REPO1
-
+make
+```
