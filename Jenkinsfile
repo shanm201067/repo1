@@ -1,7 +1,5 @@
 pipeline {
-    agent {
-       any
-    }
+    agent any
     environment {
         APP_NAME = 'jasper-awx-installer'
         APP_VERSION = 'latest'
